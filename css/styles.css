@@ -1,0 +1,119 @@
+#title {
+  background-color: #000;
+  color: #fff;
+}
+h1 {
+  font-family: "Oswald";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h2 {
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+h3 {
+  font-family: "oswald";
+  font-weight: bold;
+}
+body {
+  font-family: "roboto";
+}
+.table {
+  color: #fff;
+  padding-left: 20%;
+  font-size: 32px;
+}
+.nav-link {
+  color: #fff;
+}
+
+.icons-features {
+  height: 130px;
+  border: 0;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: center;
+}
+.fw-bold {
+  font: bold;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0;
+}
+.fw-lighter {
+  font-size: 12px;
+  width: 140px;
+  height: 40px;
+  margin: 0;
+}
+.featur {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.feed {
+  text-align: center;
+  background-color: #fff(238, 233, 233);
+}
+.feedback-blog {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.feedback-coment {
+  font-style: italic;
+}
+#partners {
+  background-color: #fff(238, 233, 233);
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+#pricing {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.card-text {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  height: 18px;
+}
+.card-header {
+  display: flex;
+  justify-content: center;
+}
+.card-title {
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+.button-start-status {
+  display: flex;
+  justify-content: center;
+}
+.col-xxl-2.col-xl-2.col-lg-4.col-md-4.ms-auto{
+  display: flex;
+  justify-content: center;
+}
+.title-second-text{
+  display: flex;
+  justify-content: center;
+}
+.title-button{
+  display: flex;
+  justify-content: center;
+}
+.footer-text{
+  display: flex;
+  justify-content: center;
+}
